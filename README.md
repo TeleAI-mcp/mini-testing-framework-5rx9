@@ -1,2 +1,3 @@
-# mini-testing-framework-5rx9
-Automated issue comment bot repository
+# Mini Testing Framework 5Rx9
+
+Automated issue comment bot repository.
